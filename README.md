@@ -23,7 +23,7 @@ AverisCraft BoxMining sunucusu için geliştirilmiş, yüksek performanslı Elyt
 Eklent, sunucu performansını korumak için optimize edilmiş varsayılan değerlerle gelir. 
 
 ## ✨ Sipariş
-* **Sipariş için discord: reyev
+* **Sipariş için discord: reyev**
 
 ```yaml
 detection:
